@@ -1,0 +1,5 @@
+{
+  "name": "EE Image Generator",
+  "description": "An AI-powered image generation tool for Electrical Engineering students and professionals. Create high-quality diagrams, schematics, and conceptual art from text prompts using Google's Imagen model.",
+  "requestFramePermissions": []
+}
